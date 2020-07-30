@@ -1,0 +1,174 @@
+New Page
+
+
+
+
+Block Number: 1
+ORIGINAL ARTICLES
+
+
+
+Block Number: 2
+Antibody-Drug Conjugates for Cancer Therapy
+
+
+
+Block Number: 3
+Paul J. Carter, PhD, and Peter D. Senter, PhD
+
+
+
+Block Number: 4
+lotarg), a humanized anti-CD33 antibody conjugated to cali-
+cheamicin approved in the United States for the treatment of
+acute myeloid leukemia (AML).7
+protein toxins dates back to 1970,8 and was followed a few
+years later by antibody conjugates with cytotoxic drugs.
+Antibody therapeutics have come of age in the intervening
+decades with the advent of hybridoma technology to develop
+murine monoclonal antibodies (MAb), chimerization and
+humanization to address the shortcomings of murine MAb as
+therapeutics, and more recently with direct routes to human
+antibodies using phage display or transgenic mice.2 The
+clinical potential of ADCs has been greatly enhanced by im-
+proved choices of targets,1 more potent drugs in conjunction
+with linkers of improved stability6,11 and greatly expanded
+knowledge of ADC cell biology32 and pharmacology. 13 ADCs
+are reviewed here from a design perspective from target selec-
+tion, through ADC lead identification, optimization, and preclin-
+ical development to clinical experience (Fig. 2). Other payload-
+ing strategies for antibodies, as well as for alternative delivery
+vehicles, have been extensively reviewed elsewhere3,11,12,14 and
+are outside the scope of this article. Of these, radioimmunocon-
+jugates stand out, with the approval of 2 different anti-CD20
+radioimmunoconjugates for the treatment of non-Hodgkin lym- 1311
+phoma: ibritumomab tiuxetan (Zevalin, 90y conjugate) and
+tositumomab (Bexxar).
+
+
+
+Block Number: 5
+Abstract: The antibody-drug conjugate (ADC) concept is to use an
+antibody to deliver a cytotoxic drug selectively to a target such as a
+tumor-associated antigen. Such conjugates represent a broadly ap-
+plicable approach to enhance the antitumor activity of antibodies
+and improve the tumor-to-norma tissue selectivity of chemotherapy.
+Critical parameters for ADC development include target antigen
+selection, conjugate internalization by tumor cells, drug potency and
+stability of the linker between drug and antibody. Other important
+considerations include the conjugation methods, drug-to-antibody
+ratio, and the effects of drug conjugation on antibody properties.
+Highly potent drugs with more stable linkers have been attached to
+a antitumor new generation activities of in antibodies preclinical to create studies conjugates and encouraging with pronounced results in
+early stage clinical trials. This review details these advances, dis-
+cusses some of the remaining challenges, and overviews ADCs
+currently in clinical trials for cancer therapy.
+Key Words: antibody, immunoconjugate, targeted therapy
+(Cancer J 2008;14 154-169)
+
+
+
+Block Number: 6
+The concept of arming antibodies by conjugation to
+
+
+
+Block Number: 7
+A for cancer therapy as evidenced by 12 such drugs ap-
+ntibody-based therapeutics are of growing significance
+proved for oncologic indications since 1995, including 9 in
+the United States. However, these antibody therapeutics are
+seldom curative, encouraging numerous approaches to en-
+hance efficacy.2 Two of the most promising strategies to
+enhance the antitumor activity of antibodies are antibody-
+drug conjugates (ADCs)-th focus of this review-and
+optimization to augment secondary immune functions.5
+conjugated to a cytotoxic drug via a chemical linker (Fig. 1).
+The therapeutic concept of ADCs is to use an antibody as
+vehicle to deliver a cytotoxic drug to a tumor cell by means
+of binding to a target cell surface antigen (Fig. 1). ADCs are
+prodrugs requiring drug release for activation, commonly
+after ADC internalization into the target cell. Numerous
+preclinical efficacy studies show that ADCs have significant
+potential for enhancing the antitumor activity of "naked"
+antibodies and reducing the systemic toxicity of the conju-
+gated drugs. Moreover, clinical demonstration of the ADC
+concept has been provided by gemtuzumab ozogamicin (My-
+
+
+
+Block Number: 8
+TARGET SELECTION
+
+
+
+Block Number: 9
+Fc
+
+
+
+Block Number: 10
+The de novo identification and validation of cell surface
+
+
+
+Block Number: 11
+targets as candidates for ADCs is beyond the scope of this article
+and is reviewed elsewhere. Target selection from a candidate
+pool is a critical first step in generating ADCs (Fig. 2). Expres-
+sion profiling is a key aspect of target selection in that tumor-
+associated antigen expression is presumed to be one of the
+necessary criteria for successful targeting with an ADC, whereas
+little or no normal tissue expression is desirable and may be
+necessary to achieve an adequate therapeutic index.
+sis of protein expression in tissue samples and is often the
+most direct and consequently preferred method for evaluating
+potential ADC targets. The advent of tissue microarraysl
+facilitates high-throughput expression profiling-hundred to
+thousands of samples-with greater standardization. 17 A lim-
+itation of immunohistochemistry is the high variability of
+data with different reagents, protocols and samplesi7
+resolvable if concordant data are obtained using multiple
+antibodies. An additional challenge with immunohistochem-
+istry is that data may be difficult to interpret if the antigen is
+
+
+
+Block Number: 12
+ADCs comprise an antibody, usually in IgG format,
+
+
+
+Block Number: 13
+a
+
+
+
+Block Number: 14
+Immunohistochemistry allows semi-quantitative analy-
+
+
+
+Block Number: 15
+From Seattle Genetics, Inc., Bothell, Washington 98021.
+Reprint requests: Paul J. Carter or Peter D. Senter, Seattle Genetics, Inc.,
+21823 30th Drive SE, Bothell, WA 98021. E-mail: pearter@seagen.com
+or
+Copyright C 2008 by Lippincott Williams & Wilkins
+ISSN: 1528-9117/08/1403-0154
+154
+
+
+
+Block Number: 16
+psenter@seagen.com
+
+
+
+Block Number: 17
+The Cancer Journal
+
+
+
+Block Number: 18
+Volume 14, Number 3, May/June 2008

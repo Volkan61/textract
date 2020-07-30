@@ -1,0 +1,15 @@
+
+
+extraction:
+  page_min: 1
+  image:
+    dpi: 300
+
+clustering:
+  distance_tolerance: 0.06
+  left_tolerance: 0.03
+  width_tolerance: 0.2
+  # How to determine the distance between two TextLines:
+  # There are the following possibilities:
+  # 1. CENTER2CENTER 2. TOP2TOP
+  distance_method: "TOP2TOP"
